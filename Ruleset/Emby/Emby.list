@@ -68,7 +68,7 @@ DOMAIN,emby.run
 DOMAIN,cc.ccemby.tk
 
 # > 垃圾影音服务器
-DOMAIN,cf.xmsl.org
+DOMAIN-KEYWORD,xmsl
 
 # > 流媒体卷毛鼠服务器
 DOMAIN,jmsooo.com
