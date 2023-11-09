@@ -81,3 +81,10 @@ DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
+
+# > KK后花园服务器
+DOMAIN,backyard.cf
+IP-CIDR,88.99.218.218
+
+# > misakaf服务器
+DOMAIN-KEYWORD,misakaf
