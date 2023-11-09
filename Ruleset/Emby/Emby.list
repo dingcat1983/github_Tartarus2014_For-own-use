@@ -64,17 +64,11 @@ DOMAIN,line.emby.men
 # > 流媒体SoCloud服务器
 DOMAIN,emby.run
 
-# > 流媒体普拉斯影业服务器
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-sg.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
+# > CC公益服务器
+DOMAIN,cc.ccemby.tk
 
-# > 流媒体WaveCloud服务器
-DOMAIN,embyserver.ga
+# > 垃圾影音服务器
+DOMAIN,cf.xmsl.org
 
 # > 流媒体卷毛鼠服务器
 DOMAIN,jmsooo.com
